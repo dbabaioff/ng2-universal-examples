@@ -1,5 +1,10 @@
-# ng2-universal-examples
+# ng2-universal-seed
+Seed project for Angular 2 Universal
 
-This repo is a collection of simple demos of Angular 2 Universal.
+## Installation
 
-These demos are purposely written in a simple and clear style. You will find no difficulty in following them to learn.
+* `npm install`
+
+## Serve
+
+* `npm start` to build server/client app and start a web server
