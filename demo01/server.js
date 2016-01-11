@@ -8,12 +8,12 @@ var app = express();
 
 // Express View
 app.engine('.ng2.html', ng2engine);
-app.set('views', __dirname);
+app.set('views', __dirName);
 app.set('view engine', 'ng2.html');
 
 
 // static files
-app.use(express.static(__dirname));
+app.use(express.static(__dirName));
 
 
 app.use('/', function(req, res) {
