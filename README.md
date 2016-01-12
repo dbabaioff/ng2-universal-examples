@@ -1,4 +1,4 @@
-# ng2-universal-seed
+# ng2-universal-examples
 Seed project for Angular 2 Universal
 
 ## Installation
